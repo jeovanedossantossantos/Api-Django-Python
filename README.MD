@@ -36,10 +36,11 @@
         python manage.py runserver
 
 <h2>Criando as tabelas</h2>
+
         python manage.py migrate
 
 <h2>Criando uma nova migrate</h2>
 
-python manage.py makemigrations
+        python manage.py makemigrations
 
 <a href="https://www.youtube.com/watch?v=wtl8ZyCbTbg">Clique aqui</a>
