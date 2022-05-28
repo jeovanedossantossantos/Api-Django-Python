@@ -1,5 +1,9 @@
 # Criando um api com DJANGO REST e PYTJON
 
+<h2>Plano de negocio</h2>
+
+<img src="./img/1.jpeg"/>
+
 <h2>Para conseguir instalar as dependencias</h2>
 
 
